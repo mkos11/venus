@@ -39,7 +39,7 @@ $ cd venus
 $ vsce package
 ```
 
-The extension must then be manually installed on target in Visual Studio Code.
+The extension must then a manually installed on target in Visual Studio Code.
 This can be done from the editor UI or from the CLI with:
 
 ```shell
